@@ -1,0 +1,7 @@
+[ourrepolab2]
+name=Resposiory for lab 2
+baseurl=http://955272440.acs.edcc.edu/ourrepolab2
+enabled=1
+gpgcheck=0
+
+

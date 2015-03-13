@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "This site is password protected. Enter a valid and password to continue."
+AuthUserFile "/etc/httpd/conf/.userdb"
+Require Bob
+AuthGroupFile "/etc/httpd/conf/.groupdb"
+Require group webgrp
